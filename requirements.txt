@@ -1,0 +1,8 @@
+opencv-contrib-python
+numpy
+Pillow
+
+# Notes:
+# - Tkinter is included with most Python installations on Windows and does not need to be installed via pip.
+# - configparser is part of the Python standard library on Python 3.x.
+# - opencv-contrib-python includes the OpenCV face module used by this application.
